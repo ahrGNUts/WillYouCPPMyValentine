@@ -1,4 +1,5 @@
 // a geeky valentine
+// add some text coloration
 #include <iostream>
 #include <conio.h>
 #include <Windows.h>
